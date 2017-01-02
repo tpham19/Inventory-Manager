@@ -1,2 +1,2 @@
 # Inventory-Manager
-An Inventory to which stores products and accounts the quanitity of each product. 
+Manages an inventory to which stores products and accounts the quantity of each product. 
